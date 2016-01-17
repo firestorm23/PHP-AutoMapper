@@ -1,0 +1,12 @@
+{
+    "name": "firestorm23/php-automapper",
+    "version": "dev-master",
+    "autoload": {
+        "psr-0" : {
+            "Adminomatic\\AutoMapper" : "Adminomatic/AutoMapper"
+        }
+    },
+    "require": {
+        "php": ">=5.3"
+    }
+}
